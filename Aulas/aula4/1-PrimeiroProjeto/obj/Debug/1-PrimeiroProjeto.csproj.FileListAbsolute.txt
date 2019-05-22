@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Alura\Aulas\csharp-parte-1-primeiros-passos\aula4\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\Users\usuario\Desktop\Alura\Aulas\csharp-parte-1-primeiros-passos\aula4\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\Users\usuario\Desktop\Alura\Aulas\csharp-parte-1-primeiros-passos\aula4\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\Users\usuario\Desktop\Alura\Aulas\csharp-parte-1-primeiros-passos\aula4\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Alura\Aulas\csharp-parte-1-primeiros-passos\aula4\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\Users\usuario\Desktop\Alura\Aulas\csharp-parte-1-primeiros-passos\aula4\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
