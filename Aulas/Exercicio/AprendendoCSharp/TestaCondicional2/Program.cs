@@ -11,13 +11,16 @@ namespace TestaCondicional2
         static void Main(string[] args)
         {
 
-            // Agora vou estar usando o comando (bool). Portanto!
+            // Agora vou estar usando o comando (bool).
+            // Portanto a variavel bool só pode guardar dois valores que são: true ou false
+            // para fazer o 'OU' é representado por: || ou &&
+            
 
-            int idade = 19;
+            int idadeArthur = 15;
             int quantidadePessoas = 3;
-            bool acompanhado = quantidadePessoas >= 2;
-
-            if (idade >= 18 && acompanhado)
+            //bool acompanhado = quantidadePessoas >= 2;
+            bool acompanhado = false; 
+            if (idadeArthur >= 18 && acompanhado == true) // O operador que usamos para comparara igualdade é o '==' 
             {
                 Console.WriteLine("Seja bem vindo");
             }
@@ -25,6 +28,7 @@ namespace TestaCondicional2
             {
                 Console.WriteLine("Infelizmente você não pode entrar");
             }
+            Console.Read();
         }
     }
 }
