@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-LacoDeRepeticaoFor", "3-L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioOpcional-MultiplosDe3", "DesafioOpcional-MultiplosDe3\DesafioOpcional-MultiplosDe3.csproj", "{8927B98D-254C-41EA-A0FF-E21504BC71DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-DesafioOpcional-Fatoral", "2-DesafioOpcional-Fatoral\2-DesafioOpcional-Fatoral.csproj", "{9B4542C2-4F5C-4AE7-A72B-0643B5E7D41F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8927B98D-254C-41EA-A0FF-E21504BC71DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8927B98D-254C-41EA-A0FF-E21504BC71DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8927B98D-254C-41EA-A0FF-E21504BC71DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4542C2-4F5C-4AE7-A72B-0643B5E7D41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4542C2-4F5C-4AE7-A72B-0643B5E7D41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4542C2-4F5C-4AE7-A72B-0643B5E7D41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4542C2-4F5C-4AE7-A72B-0643B5E7D41F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
